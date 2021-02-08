@@ -15,4 +15,4 @@ def join_nested_strings(src)
   end
 end
 
-completed_sentence
+puts completed_sentence
