@@ -13,5 +13,6 @@ def join_nested_strings(src)
     end
     row_index += 1
   end
+  
   return completed_sentence
 end
